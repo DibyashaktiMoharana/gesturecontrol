@@ -1,0 +1,8 @@
+# Ignore env folder
+env/
+
+# Ignore test.py
+test.py
+
+# Ignore tempCodeRunnerFile
+tempCodeRunnerFile.py
